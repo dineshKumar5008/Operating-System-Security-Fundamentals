@@ -1,4 +1,4 @@
-# 🔐 Task 2 – Operating System Security Fundamentals
+# 🔐 Operating System Security Fundamentals
 
 > “The first system you must secure is the operating system itself.”
 
